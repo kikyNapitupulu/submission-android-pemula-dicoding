@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Masakan Batak</string>
+    <string name="names_food">Nama Makanan</string>
+    <string name="bahan_food">Bahan Bahan :</string>
+    <string name="langkah_food">Langkah Langkah:</string>
+
+</resources>
